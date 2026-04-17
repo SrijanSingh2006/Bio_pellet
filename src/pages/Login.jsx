@@ -15,6 +15,11 @@ const Login = () => {
     e.preventDefault()
     setLoading(true)
     setError('')
+    if (!auth) {
+      setError('Auth service not configured. Please contact support.')
+      setLoading(false)
+      return
+    }
     try {
       await signInWithEmailAndPassword(auth, form.email, form.password)
       navigate('/')

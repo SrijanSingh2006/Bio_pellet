@@ -17,6 +17,11 @@ const Register = () => {
     if (form.password !== form.confirm) { setError('Passwords do not match.'); return }
     if (form.password.length < 6) { setError('Password must be at least 6 characters.'); return }
     setLoading(true)
+    if (!auth) {
+      setError('Auth service not configured. Please contact support.')
+      setLoading(false)
+      return
+    }
     try {
       await createUserWithEmailAndPassword(auth, form.email, form.password)
       navigate('/')
