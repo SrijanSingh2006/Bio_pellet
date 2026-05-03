@@ -1,0 +1,660 @@
+[
+    {
+      "name": "GreenBio Plant A",
+      "pincode": "110001",
+      "address": "Connaught Place",
+      "city": "Delhi",
+      "state": "Delhi",
+      "latitude": 28.6315,
+      "longitude": 77.2167
+    },
+    {
+      "name": "EcoPellet Unit B",
+      "pincode": "560001",
+      "address": "MG Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "latitude": 12.9763,
+      "longitude": 77.6033
+    },
+      {
+        "name": "XLNT Thermal Technologys",
+        "pincode": "600058",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0827,
+        "longitude": 80.2707
+      },
+      {
+        "name": "ANDRITZ Technologies Pvt. Ltd.",
+        "pincode": "600089",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0108,
+        "longitude": 80.2171
+      },
+      {
+        "name": "S B Agro Feed Industry",
+        "pincode": "600062",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0475,
+        "longitude": 80.2101
+      },
+      {
+        "name": "Miracle India",
+        "pincode": "600083",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0185,
+        "longitude": 80.2299
+      },
+      {
+        "name": "RAJA MOHAN EXPORT HUB PRIVATE LIMITED",
+        "pincode": "600040",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0521,
+        "longitude": 80.1987
+      },
+      {
+        "name": "Hadoti Biotech Pvt. Ltd.",
+        "pincode": "600100",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 12.9906,
+        "longitude": 80.2472
+      },
+      {
+        "name": "D R Lion Biomass",
+        "pincode": "600125",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 12.8749,
+        "longitude": 80.2196
+      },
+      {
+        "name": "Shri Bihari Ji Traders",
+        "pincode": "600073",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0604,
+        "longitude": 80.2059
+      },
+      {
+        "name": "S.B.Biofuel",
+        "pincode": "600102",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0228,
+        "longitude": 80.2489
+      },
+      {
+        "name": "SERVODAY Group",
+        "pincode": "600094",
+        "address": "Chennai, Tamil Nadu",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0032,
+        "longitude": 80.2591
+      },
+        {
+          "name": "Jaipur Agro Industries",
+          "address": "93, RIICO Industrial Area, Kaladera, Jaipur, Rajasthan",
+          "pin_code": "303801",
+          "latitude": 27.1000,
+          "longitude": 75.8000
+        },
+        {
+          "name": "Jaipur Green Fuels Pvt. Ltd.",
+          "address": "F. No. S-3, P.No. A-123, Patel Residency, A-124, Dadu Dayal Nagar, Kalyanpura, Sanganer, Jaipur, Rajasthan",
+          "pin_code": "302020",
+          "latitude": 26.8100,
+          "longitude": 75.7800
+        },
+        {
+          "name": "Jagdambika Bio Fuels and Agro Waste Energy",
+          "address": "Jaipur, Rajasthan",
+          "pin_code": "302001",
+          "latitude": 26.9124,
+          "longitude": 75.7873
+        },
+        {
+          "name": "Enersol Biopower Pvt. Ltd.",
+          "address": "Plot No. 1, Jaisalya, Number 17 VKI Area, Road, Jaipur, Rajasthan",
+          "pin_code": "302013",
+          "latitude": 26.9500,
+          "longitude": 75.8000
+        },
+        {
+          "name": "Jagdamba Fuel Industry",
+          "address": "43, Suraj Nagar East, Civil Lines, Jaipur, Rajasthan",
+          "pin_code": "302006",
+          "latitude": 26.9200,
+          "longitude": 75.8000
+        },
+        {
+          "name": "Kanha Bio Fuel & Minerals",
+          "address": "A-50, Arya Nagar, Near N.K. Public School, Murlipura, Jaipur, Rajasthan",
+          "pin_code": "302013",
+          "latitude": 26.9500,
+          "longitude": 75.8000
+        },
+        {
+          "name": "Jagannath Green Fuel",
+          "address": "No. 108, First Floor, Gali No. 4, Madhav Nagar, Opposite Durgapur, Jaipur, Rajasthan",
+          "pin_code": "302018",
+          "latitude": 26.9200,
+          "longitude": 75.8000
+        },
+        {
+          "name": "Jai Mata Di Bio",
+          "address": "24, Shiv Vihar Colony, Opp. Road No.-05 VKI Area, Jaipur, Rajasthan",
+          "pin_code": "302039",
+          "latitude": 26.9500,
+          "longitude": 75.8000
+        },
+        {
+          "name": "Bijson Innovations Pvt. Ltd.",
+          "address": "3rd Floor, Tilak Bhawan, Opp. Udyog Bhawan, 5A Tilak Marg, C Scheme, Jaipur, Rajasthan",
+          "pin_code": "302001",
+          "latitude": 26.9124,
+          "longitude": 75.7873
+        },
+        {
+          "name": "SERVODAY Compost Pellet Plant",
+          "address": "Jaipur, Rajasthan",
+          "pin_code": "302001",
+          "latitude": 26.9124,
+          "longitude": 75.7873
+        },
+          {
+            "name": "Shuhari Renewables Pvt. Ltd.",
+            "address": "Vikram Nagar, Ahmedabad, Gujarat",
+            "pin_code": "380054",
+            "latitude": 23.0225,
+            "longitude": 72.5714
+          },
+          {
+            "name": "Accentortech Industries Pvt. Ltd.",
+            "address": "Shela, Ahmedabad, Gujarat",
+            "pin_code": "380058",
+            "latitude": 22.9920,
+            "longitude": 72.4780
+          },
+          {
+            "name": "D R Lion Biomass",
+            "address": "Ahmedabad, Gujarat",
+            "pin_code": "380001",
+            "latitude": 23.0225,
+            "longitude": 72.5714
+          },
+          {
+            "name": "Samirika Fabrication Works",
+            "address": "Kubadthal, Ahmedabad, Gujarat",
+            "pin_code": "382430",
+            "latitude": 23.0300,
+            "longitude": 72.6500
+          },
+          {
+            "name": "Om Enterprise",
+            "address": "Odhav, Ahmedabad, Gujarat",
+            "pin_code": "382415",
+            "latitude": 23.0330,
+            "longitude": 72.6500
+          },
+          {
+            "name": "Trade Tales",
+            "address": "Satellite, Ahmedabad, Gujarat",
+            "pin_code": "380015",
+            "latitude": 23.0300,
+            "longitude": 72.5300
+          },
+          {
+            "name": "Yoganand Energy Product",
+            "address": "Bopal, Ahmedabad, Gujarat",
+            "pin_code": "380058",
+            "latitude": 23.0300,
+            "longitude": 72.4800
+          },
+          {
+            "name": "SERVODAY Group",
+            "address": "Ahmedabad, Gujarat",
+            "pin_code": "380001",
+            "latitude": 23.0225,
+            "longitude": 72.5714
+          },
+          {
+            "name": "Supreme Industries",
+            "address": "Ahmedabad, Gujarat",
+            "pin_code": "380001",
+            "latitude": 23.0225,
+            "longitude": 72.5714
+          },
+          {
+            "name": "Jay Bio Fuel",
+            "address": "Nadiad, Gujarat",
+            "pin_code": "387001",
+            "latitude": 22.7000,
+            "longitude": 72.8700
+          },
+            {
+              "name": "SERVODAY Group",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "Adithya Agro Vet",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "SHB Chemicals Ltd.",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "S B Agro Feed Industry",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "Diamond Engineering Enterprises",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "Miracle India",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "Gee Seven Bio Energy",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "Relume Engineering",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "Amb Bio Mass Fuel Tech",
+              "address": "Hyderabad, Telangana",
+              "pin_code": "500001",
+              "latitude": 17.3850,
+              "longitude": 78.4867
+            },
+            {
+              "name": "Sivashakthi Biotechnologies Ltd.",
+              "address": "Sanjeeva Reddy Nagar, Hyderabad, Telangana",
+              "pin_code": "500038",
+              "latitude": 17.4375,
+              "longitude": 78.4483
+            },
+              {
+                "name": "SERVODAY Alfalfa Pellet Plant",
+                "address": "Thane, Maharashtra, India",
+                "pin_code": "400601",
+                "latitude": 19.2183,
+                "longitude": 72.9781
+              },
+              {
+                "name": "SERVODAY Rice Straw Pellet Plant",
+                "address": "Thane, Maharashtra, India",
+                "pin_code": "400601",
+                "latitude": 19.2183,
+                "longitude": 72.9781
+              },
+              {
+                "name": "SERVODAY Compost Pellet Plant",
+                "address": "Thane, Maharashtra, India",
+                "pin_code": "400601",
+                "latitude": 19.2183,
+                "longitude": 72.9781
+              },
+              {
+                "name": "SERVODAY Torrefaction Plant",
+                "address": "Thane, Maharashtra, India",
+                "pin_code": "400601",
+                "latitude": 19.2183,
+                "longitude": 72.9781
+              },
+              {
+                "name": "SERVODAY Spent Coffee Grounds (SCG) Pellet Plant",
+                "address": "Thane, Maharashtra, India",
+                "pin_code": "400601",
+                "latitude": 19.2183,
+                "longitude": 72.9781
+              },
+              {
+                "name": "Fabon Engineering Pvt. Ltd. – Biomass Pellet Plant 250 Kg/hour",
+                "address": "Thane, Maharashtra, India",
+                "pin_code": "400601",
+                "latitude": 19.2183,
+                "longitude": 72.9781
+              },
+              {
+                "name": "Fabon Engineering Pvt. Ltd. – Biomass Pellet Plant 1000 Kg/hour",
+                "address": "Thane, Maharashtra, India",
+                "pin_code": "400601",
+                "latitude": 19.2183,
+                "longitude": 72.9781
+              },
+              {
+                "name": "Fabon Engineering Pvt. Ltd. – Biomass Pellet Plant 125 Kg/hour",
+                "address": "Thane, Maharashtra, India",
+                "pin_code": "400601",
+                "latitude": 19.2183,
+                "longitude": 72.9781
+              },
+                {
+                  "name": "SERVODAY Wood Biomass Pellet Plant",
+                  "address": "Kamrup, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                {
+                  "name": "SERVODAY Rice Straw Pellet Plant",
+                  "address": "Kamrup, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                {
+                  "name": "SERVODAY Compost Pellet Plant",
+                  "address": "Kamrup, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                {
+                  "name": "SERVODAY Torrefaction Plant",
+                  "address": "Kamrup, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                {
+                  "name": "SERVODAY Spent Coffee Grounds (SCG) Pellet Plant",
+                  "address": "Kamrup, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                {
+                  "name": "OBERSTECH",
+                  "address": "Guwahati, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                {
+                  "name": "JSON ENERGY",
+                  "address": "Guwahati, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                {
+                  "name": "M S White Coal Industries and Biofertilizers",
+                  "address": "Darbhanga, Bihar, India",
+                  "pin_code": "846004",
+                  "latitude": 26.1522,
+                  "longitude": 85.8970
+                },
+                {
+                  "name": "SHB Chemicals Ltd.",
+                  "address": "Guwahati, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                {
+                  "name": "Gee Seven Bio Energy",
+                  "address": "Guwahati, Assam, India",
+                  "pin_code": "781001",
+                  "latitude": 26.1445,
+                  "longitude": 91.7362
+                },
+                  {
+                    "name": "Mita Energy",
+                    "address": "Bhubaneswar, Odisha, India",
+                    "pin_code": "751001",
+                    "latitude": 20.2961,
+                    "longitude": 85.8245
+                  },
+                  {
+                    "name": "Patnaik Steel Plant",
+                    "address": "Bhubaneswar, Odisha, India",
+                    "pin_code": "751001",
+                    "latitude": 20.2961,
+                    "longitude": 85.8245
+                  },
+                  {
+                    "name": "KIS Projects Pvt. Ltd.",
+                    "address": "Bhubaneswar, Odisha, India",
+                    "pin_code": "751001",
+                    "latitude": 20.2961,
+                    "longitude": 85.8245
+                  },
+                  {
+                    "name": "Unibro Martech Pvt. Ltd.",
+                    "address": "Cuttack, Odisha, India",
+                    "pin_code": "753001",
+                    "latitude": 20.4625,
+                    "longitude": 85.8828
+                  },
+                  {
+                    "name": "Jindal Steel & Power Limited",
+                    "address": "Angul, Odisha, India",
+                    "pin_code": "759122",
+                    "latitude": 20.8400,
+                    "longitude": 85.1000
+                  },
+                  {
+                    "name": "Unnmukt Urja Pvt. Ltd.",
+                    "address": "Bargarh, Odisha, India",
+                    "pin_code": "768028",
+                    "latitude": 21.3333,
+                    "longitude": 83.6167
+                  },
+                  {
+                    "name": "S S Pulverising Industries",
+                    "address": "Raipur, Chhattisgarh, India",
+                    "pin_code": "492001",
+                    "latitude": 21.2514,
+                    "longitude": 81.6296
+                  },
+                  {
+                    "name": "Chhattisgarh Biofuels",
+                    "address": "Raipur, Chhattisgarh, India",
+                    "pin_code": "492001",
+                    "latitude": 21.2514,
+                    "longitude": 81.6296
+                  },
+                  {
+                    "name": "Chandra Vansh Sales Corporation",
+                    "address": "Patna, Bihar, India",
+                    "pin_code": "800001",
+                    "latitude": 25.5941,
+                    "longitude": 85.1376
+                  },
+                  {
+                    "name": "Ishi Charanpahari Foods Pvt. Ltd.",
+                    "address": "Patna, Bihar, India",
+                    "pin_code": "800001",
+                    "latitude": 25.5941,
+                    "longitude": 85.1376
+                  },
+          
+                    {
+                      "name": "GreenCues",
+                      "address": "199A, Thottasalai St, Karichipalayam, Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641659",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Wood Biomass Pellet Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Compost Pellet Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Torrefaction Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Spent Coffee Grounds (SCG) Pellet Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Rice Straw Pellet Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "Sri Balasanka Mill",
+                      "address": "Theni, Tamil Nadu, India",
+                      "pin_code": "625531",
+                      "latitude": 10.0159,
+                      "longitude": 77.4820
+                    },
+                    {
+                      "name": "Biomass Pellets Supplier 1",
+                      "address": "Pollachi, Tamil Nadu, India",
+                      "pin_code": "642001",
+                      "latitude": 10.6588,
+                      "longitude": 77.0081
+                    },
+                    {
+                      "name": "Biomass Pellets Supplier 2",
+                      "address": "Mettur, Tamil Nadu, India",
+                      "pin_code": "636401",
+                      "latitude": 11.7845,
+                      "longitude": 77.8008
+                    },
+                    {
+                      "name": "Biomass Pellets Supplier 3",
+                      "address": "Salem, Tamil Nadu, India",
+                      "pin_code": "636001",
+                      "latitude": 11.6643,
+                      "longitude": 78.1460
+                    },
+                    {
+                      "name": "GreenCues",
+                      "address": "199A, Thottasalai St, Karichipalayam, Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641659",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Wood Biomass Pellet Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Compost Pellet Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Torrefaction Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Spent Coffee Grounds (SCG) Pellet Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "SERVODAY Rice Straw Pellet Plant",
+                      "address": "Coimbatore, Tamil Nadu, India",
+                      "pin_code": "641001",
+                      "latitude": 11.0168,
+                      "longitude": 76.9558
+                    },
+                    {
+                      "name": "Sri Balasanka Mill",
+                      "address": "Theni, Tamil Nadu, India",
+                      "pin_code": "625531",
+                      "latitude": 10.0159,
+                      "longitude": 77.4820
+                    },
+                    {
+                      "name": "Biomass Pellets Supplier 1",
+                      "address": "Pollachi, Tamil Nadu, India",
+                      "pin_code": "642001",
+                      "latitude": 10.6588,
+                      "longitude": 77.0081
+                    },
+                    {
+                      "name": "Biomass Pellets Supplier 2",
+                      "address": "Mettur, Tamil Nadu, India",
+                      "pin_code": "636401",
+                      "latitude": 11.7845,
+                      "longitude": 77.8008
+                    },
+                    {
+                      "name": "Biomass Pellets Supplier 3",
+                      "address": "Salem, Tamil Nadu, India",
+                      "pin_code": "636001",
+                      "latitude": 11.6643,
+                      "longitude": 78.1460
+                    }
+          
+        
+            
+  ]

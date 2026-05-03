@@ -1,114 +1,64 @@
-const fs = require('fs');
+# ECOSHIELD: Bio-Pellet Plant Locator & Enterprise ML Hub 🌱
 
-// Sexy README content
-const readmeContent = `
-# 🌱 Bio Pellet Plant Locator
+ECOSHIELD is an advanced, full-stack Agricultural-Technology (AgTech) platform designed to tackle stubble burning by connecting farmers with bio-pellet manufacturing plants. It leverages cutting-edge Machine Learning, Edge AI, Geospatial Analytics, and simulated Blockchain technology to optimize the biomass supply chain.
 
-> **Empowering a greener tomorrow, one plant at a time.**
+## 🚀 Features
 
----
+### 1. 🚜 Farmer AI Suite (Edge Computing)
+Runs instantly in the browser using TensorFlow.js:
+- **AI Quality Analyzer:** Grade biomass quality.
+- **Uber for Balers:** Find and share agricultural equipment with nearby farmers to reduce costs.
+- **Spoilage Risk Forecast:** Time-series weather risk analysis.
+- **Soil Health Optimizer:** Optimize profits vs fertilizer replacement costs.
 
-## 🚀 Project Overview
+### 2. 🏭 Enterprise ML Architecture (Python Microservice)
+Powered by a dedicated Flask backend using Scikit-Learn:
+- **Satellite Yield Estimator:** Predicts farm biomass yield using simulated Satellite NDVI data (Random Forest).
+- **Predictive Maintenance:** Detects anomalies in pelletizer machines before breakdown (Isolation Forest).
+- **Dynamic Market Price Forecasting:** Analyzes seasonality and demand to forecast fair biomass pricing (Time-Series Regression).
 
-**Bio Pellet Plant Locator** is a powerful, intuitive platform designed to help users locate the nearest bio pellet manufacturing plants based on their pincode.  
-It promotes the use of **renewable energy** and **eco-friendly resources**, making green energy more accessible and practical for everyone.
+### 3. 🗺️ GIS Command Center
+- Live, dark-mode geospatial analytics dashboard.
+- Displays NASA FIRMS active fire hotspots alongside biomass density clusters across India.
 
----
+### 4. 🔗 Plant Locator & Payment Gateway
+- Locate verified bio-pellet manufacturing plants using GPS, Pincode, or State filters.
+- **Razorpay Integration:** Secure ₹1 test payment gateway to unlock direct contact details for plants.
 
-## ✨ Features
+### 5. 📗 Carbon Smart Ledger
+- An immutable simulated blockchain tracking verified CO2 offsets.
+- Automatically mints "Carbon Credits" whenever plants process biomass.
 
-- 🔍 **Smart Search**: Find nearby bio pellet plants instantly using a simple pincode search.
-- 🏭 **Plant Database**: Pre-populated database of verified bio pellet manufacturers.
-- 🛡️ **Secure Access**: Payment integration ensures premium access to plant information.
-- 📍 **Interactive Map (Coming Soon)**: Visualize nearby plants on an embedded map.
-- 🚀 **Fast & Responsive**: Built for performance with modern technologies.
+## 🛠️ Technology Stack
+- **Frontend:** React.js, Vite, TailwindCSS, React-Leaflet, Axios, Razorpay SDK
+- **Backend:** Python, Flask, Scikit-Learn, Pandas, Numpy, Joblib
+- **Maps:** Leaflet & OpenStreetMap
+- **Deployment:** Vercel (Frontend ready), Render/Railway (Backend ready)
 
----
+## ⚙️ How to Run Locally
 
-## 🛠️ Tech Stack
+### 1. Clone the repository
+```bash
+git clone https://github.com/SrijanSingh2006/Bio_pellet.git
+cd Bio_pellet
+```
 
-| Frontend | Backend | Database | Payment Integration |
-|:--------:|:-------:|:---------:|:-------------------:|
-| React.js | Node.js (Express) | MongoDB | PayPal API |
-
----
-
-## 📦 Installation
-
-\`\`\`bash
-# Clone the repository
-git clone https://github.com/yourusername/bio-pellet-plant-locator.git
-
-# Navigate to project directory
-cd bio-pellet-plant-locator
-
-# Install backend dependencies
-cd backend
+### 2. Start the Frontend (Vite)
+```bash
 npm install
-
-# Install frontend dependencies
-cd ../frontend
-npm install
-
-# Run the backend server
-cd ../backend
 npm run dev
+```
+The frontend will run on `http://localhost:5173/`
 
-# Run the frontend
-cd ../frontend
-npm start
-\`\`\`
+### 3. Start the ML Backend (Python)
+Open a new terminal window:
+```bash
+cd ml_backend
+pip install -r requirements.txt
+python train_models.py
+python app.py
+```
+The backend will run on `http://localhost:5006/`
 
----
-
-## 🔑 Environment Variables
-
-Make sure to add these variables to your \`.env\` file in the **backend** folder:
-
-\`\`\`bash
-MONGO_URI=your_mongodb_connection_string
-PAYPAL_CLIENT_ID=your_paypal_client_id
-PAYPAL_CLIENT_SECRET=your_paypal_client_secret
-\`\`\`
-
----
-
-## 📸 Sneak Peek
-
-> *Screenshots of the application coming soon... Stay tuned!*
-
----
-
-## 🤝 Contributing
-
-Contributions are warmly welcomed!  
-If you have ideas to enhance the project, feel free to fork, create a new branch, and submit a pull request. Let’s make green energy more accessible together! 🌍
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**.  
-See \`LICENSE\` for more information.
-
----
-
-## 🧡 Acknowledgments
-
-- Thanks to all green energy supporters.
-- Special shoutout to the open-source community for their amazing tools and libraries.
-- Inspired by the vision of a sustainable future. 🌱
-
----
-
-> **Bio Pellet Plant Locator** – *Building a cleaner, greener world, one plant at a time.*
-`;
-
-// Write the README.md file
-fs.writeFile('README.md', readmeContent.trim(), (err) => {
-    if (err) {
-        console.error('❌ Error creating README.md:', err);
-    } else {
-        console.log('✅ README.md created successfully!');
-    }
-});
+## 👨‍💻 Author
+Developed as an Advanced Mobile Communication (AMC) and Web Development project. All AI UI elements have been polished to provide an enterprise-grade, human-made aesthetic.
