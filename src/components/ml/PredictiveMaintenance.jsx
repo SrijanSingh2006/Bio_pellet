@@ -16,7 +16,7 @@ const PredictiveMaintenance = () => {
 
   const fetchPrediction = async (currentSensors) => {
     try {
-      const res = await axios.post('http://localhost:5006/api/ml/predict-maintenance', currentSensors);
+      const res = await axios.post(`${import.meta.env.VITE_ML_BACKEND_URL}/api/ml/predict-maintenance`, currentSensors);
       if (res.data.success) {
         setResult(res.data);
       } else {

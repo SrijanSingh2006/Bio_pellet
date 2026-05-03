@@ -16,7 +16,7 @@ const PriceForecaster = () => {
     setLoading(true);
     setError(null);
     try {
-      const res = await axios.post('http://localhost:5006/api/ml/predict-price', {
+      const res = await axios.post(`${import.meta.env.VITE_ML_BACKEND_URL}/api/ml/predict-price`, {
         month,
         diesel_price: diesel,
         demand

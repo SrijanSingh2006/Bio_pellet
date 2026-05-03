@@ -14,7 +14,7 @@ const SatelliteYield = () => {
     setLoading(true);
     setError(null);
     try {
-      const res = await axios.post('http://localhost:5006/api/ml/predict-yield', {
+      const res = await axios.post(`${import.meta.env.VITE_ML_BACKEND_URL}/api/ml/predict-yield`, {
         ndvi,
         soil_quality: soil,
         rainfall_mm: rain

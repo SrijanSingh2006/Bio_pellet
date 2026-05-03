@@ -57,7 +57,7 @@ const VoiceAgent = () => {
     
     setIsProcessing(true);
     try {
-      const res = await axios.post('http://localhost:5006/api/ml/nlp-intent', { text: transcript });
+      const res = await axios.post(`${import.meta.env.VITE_ML_BACKEND_URL}/api/ml/nlp-intent`, { text: transcript });
       
       if (res.data.success) {
         setResponse(res.data.response_text);
